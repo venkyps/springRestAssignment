@@ -1,0 +1,3 @@
+INSERT INTO USER_LOGIN (USERNAME,PASSWORD) VALUES
+  ('Miller','Pass@123'),
+  ('Tessa','Pass@123');
