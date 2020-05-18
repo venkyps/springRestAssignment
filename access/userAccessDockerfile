@@ -1,0 +1,4 @@
+From centos:latest
+FROM openjdk:11-jre-slim
+ADD ./target/useraccess.jar useraccess.jar
+ENTRYPOINT ["java","-jar","useraccess.jar"]

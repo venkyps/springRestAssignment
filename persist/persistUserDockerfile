@@ -1,0 +1,4 @@
+From centos:latest
+FROM openjdk:11-jre-slim
+ADD ./target/persistuser.jar persistuser.jar
+ENTRYPOINT ["java","-jar","persistuser.jar"]
