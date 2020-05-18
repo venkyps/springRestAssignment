@@ -1,4 +1,5 @@
 From centos:latest
 FROM openjdk:11-jre-slim
+EXPOSE 8010
 ADD ./target/deleteuser.jar deleteuser.jar
 ENTRYPOINT ["java","-jar","deleteuser.jar"]
