@@ -60,7 +60,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>UserDetails</finalName>
+		<finalName>userdetails</finalName>
 	</build>
 
 </project>

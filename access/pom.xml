@@ -94,7 +94,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>UserAccess</finalName>
+		<finalName>useraccess</finalName>
 	</build>
 
 </project>

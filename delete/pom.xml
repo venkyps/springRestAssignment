@@ -59,7 +59,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>DeleteUser</finalName>
+		<finalName>deleteuser</finalName>
 	</build>
 
 </project>
